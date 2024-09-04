@@ -1,2 +1,9 @@
-# video-music-mamba
-VMM:Video-Music Mamba for Generationg Music from Videos
+# Video-Music-Mamba-VMM-
+VMM: Video-Music Mamba for Generating Music from Videos
+
+## Directory Structure
+* `demo/`: saved file we generated
+  
+  
+
+Our code will be released later~
